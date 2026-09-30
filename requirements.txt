@@ -1,0 +1,9 @@
+jupyter
+matplotlib==3.7.5
+numpy==1.23.5
+pandas
+scikit-learn
+seaborn
+tensorflow==2.13.1
+streamlit==1.37.1
+pillow==10.4.0
